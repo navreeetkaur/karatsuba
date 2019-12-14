@@ -1,3 +1,3 @@
-# recover-bintree
+# karatsuba
 
-Reconstruct binary tree from the inorder traversal only 
+Karatsuba fast multiplication in SML
